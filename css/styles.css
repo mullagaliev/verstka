@@ -1,0 +1,34 @@
+aside {
+    background: #f0f0f0;
+    padding: 10px;
+    width: 200px;
+    float: right;
+}
+
+article {
+    margin-right: 240px;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-size: 22px;
+    line-height: 1.545
+}
+
+header {
+    background-color: #FD739C;
+    color: white;
+}
+
+header a {
+    color: white !important
+}
+
+header, main, footer {
+    padding: 10px;
+}
+
+h1, h2, h3 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
