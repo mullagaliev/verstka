@@ -16,19 +16,32 @@ body {
     line-height: 1.545
 }
 
-header {
-    background-color: #FD739C;
-    color: white;
-}
-
-header a {
-    color: white !important
-}
-
 header, main, footer {
     padding: 10px;
 }
 
 h1, h2, h3 {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    margin-bottom: 0;
+}
+
+header {
+    background-color: #FD739C;
+    color: white;
+    padding: 50px 10px;
+}
+
+header a {
+    color: white
+}
+
+main {
+    padding-bottom: 50px;
+}
+
+footer {
+    border-top: 1px solid gray;
 }
